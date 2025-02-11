@@ -2,7 +2,7 @@
 
 
 ![screenshot](image.jpg)
-
+![screenshot](image2.jpg)
 
 Display the temperature on all screen surface.
 

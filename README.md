@@ -6,8 +6,8 @@
 
 Display the temperature on all screen surface.
 
-2 fonts size are used.
+2 font sizes are used.
 
 
-I cleaned a lot of code to reduce dependency and compil faster.
+I cleaned up the code to reduce dependencies and compil faster.
 Tested with LVGL 8.4.0

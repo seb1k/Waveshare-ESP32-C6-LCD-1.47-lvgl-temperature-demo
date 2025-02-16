@@ -10,4 +10,5 @@ Display the temperature on all screen surface.
 
 
 I cleaned up the code to reduce dependencies and compil faster.
-Tested with LVGL 8.4.0
+
+Works with LVGL 8.4.0
